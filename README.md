@@ -176,5 +176,5 @@ http://localhost:8080/TaskManager/api/management
 ---
 
 ## Conclusion
-This Management API provides a robust foundation for managing projects and tasks. By following the steps above, you can set up and run the service, and extend it as needed for your specific requirements.
+This Management API provides a very important foundation for managing projects and tasks. I have done all the steps by following what the brief required me to deliver. Anyone can set up and run the service, and extend it as needed for their specific requirements. The project has been committed to GitHub 
 
